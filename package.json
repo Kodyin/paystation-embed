@@ -1,7 +1,7 @@
 {
-  "name": "xsolla-paystation-widget",
-  "version": "1.2.3",
-  "description": "PayStation 3 Integration Widget",
+  "name": "@kodyin/xsolla-paystation-widget",
+  "version": "1.0.0",
+  "description": "PayStation 3 Integration Widget Fork",
   "scripts": {
     "build": "gulp build",
     "dev": "gulp serve"
